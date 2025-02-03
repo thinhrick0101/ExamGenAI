@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+google-generativeai  # Replaces OpenAI for Gemini
+pypdf
+tiktoken  # Only needed for OpenAI, can be removed if not used
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+-e .
